@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --foreground-rgb: 0, 0, 0;
+    --background-start-rgb: 214, 219, 220;
+    --background-end-rgb: 255, 255, 255;
+}
+
+.mantine-Slider-thumb {
+    border-radius: 0px !important;
+}
+
+.crossHeader {
+    @apply -mt-20 pt-20 md:-mt-24 md:pt-24 xl:-mt-28 xl:pt-28;
+}
+
+.swiper-pagination-bullet {
+    width: 15px !important;
+    height: 15px !important;
+    background: #f1f2da !important;
+    border-radius: 0px !important;
+}

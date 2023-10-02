@@ -1,0 +1,92 @@
+export const cardData = [
+    {
+        id: 1,
+        title: "Item 1",
+        user: "user1",
+        image: "/card-logos/logo1.png",
+    },
+    {
+        id: 2,
+        title: "Item 1",
+        user: "user2",
+        image: "/card-logos/logo2.png",
+    },
+    {
+        id: 3,
+        title: "Item 1",
+        user: "user3",
+        image: "/card-logos/logo3.png",
+    },
+    {
+        id: 4,
+        title: "Item 1",
+        user: "user4",
+        image: "/card-logos/logo4.png",
+    },
+    {
+        id: 5,
+        title: "Item 1",
+        user: "user5",
+        image: "/card-logos/logo5.png",
+    },
+    {
+        id: 6,
+        title: "Item 1",
+        user: "user6",
+        image: "/card-logos/logo6.png",
+    },
+    {
+        id: 7,
+        title: "Item 1",
+        user: "user7",
+        image: "/card-logos/logo7.png",
+    },
+    {
+        id: 4,
+        title: "Item 1",
+        user: "user4",
+        image: "/card-logos/logo4.png",
+    },
+    {
+        id: 5,
+        title: "Item 1",
+        user: "user5",
+        image: "/card-logos/logo5.png",
+    },
+    {
+        id: 6,
+        title: "Item 1",
+        user: "user6",
+        image: "/card-logos/logo6.png",
+    },
+    {
+        id: 7,
+        title: "Item 1",
+        user: "user7",
+        image: "/card-logos/logo7.png",
+    },
+    {
+        id: 4,
+        title: "Item 1",
+        user: "user4",
+        image: "/card-logos/logo4.png",
+    },
+    {
+        id: 5,
+        title: "Item 1",
+        user: "user5",
+        image: "/card-logos/logo5.png",
+    },
+    {
+        id: 6,
+        title: "Item 1",
+        user: "user6",
+        image: "/card-logos/logo6.png",
+    },
+    {
+        id: 7,
+        title: "Item 1",
+        user: "user7",
+        image: "/card-logos/logo7.png",
+    },
+]
